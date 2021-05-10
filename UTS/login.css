@@ -1,0 +1,32 @@
+body{
+    font-family: 'Fredericka the Great', cursive;
+    background: url('https://image.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1410.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(243, 226, 69);
+    }
+h1{
+    margin-top: 7%;
+    color :#ee6c34;
+    }
+    h2{
+    color:#fea82f;
+	}
+button {
+    transition-duration: 0.2s;
+    padding: 18px 30px;
+    font-family :'Fredericka the Great', cursive;
+    border-radius: 6px;
+    font-size : 20px;
+    color : black;
+    }
+button:hover{
+    background-color: #bd5b31;
+    color: white;
+    }
+    input {
+    padding : 8px 110px;
+    }
+a{
+    text-decoration : none;
+    }
